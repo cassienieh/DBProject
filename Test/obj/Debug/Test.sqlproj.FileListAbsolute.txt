@@ -1,0 +1,10 @@
+C:\Users\cassie.nieh\source\repos\DBProject\Test\bin\Debug\Test.dacpac
+C:\Users\cassie.nieh\source\repos\DBProject\Test\bin\Debug\Test.dll
+C:\Users\cassie.nieh\source\repos\DBProject\Test\bin\Debug\Test.pdb
+C:\Users\cassie.nieh\source\repos\DBProject\Test\obj\Debug\Test.sqlprojAssemblyReference.cache
+C:\Users\cassie.nieh\source\repos\DBProject\Test\obj\Debug\Model.xml
+C:\Users\cassie.nieh\source\repos\DBProject\Test\obj\Debug\refactor.xml
+C:\Users\cassie.nieh\source\repos\DBProject\Test\obj\Debug\postdeploy.sql
+C:\Users\cassie.nieh\source\repos\DBProject\Test\obj\Debug\predeploy.sql
+C:\Users\cassie.nieh\source\repos\DBProject\Test\obj\Debug\Test.dll
+C:\Users\cassie.nieh\source\repos\DBProject\Test\obj\Debug\Test.pdb
