@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="Test_02.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\CASSIE.NIEH\SOURCE\REPOS\DBPROJECT\TEST_02\OBJ\DEBUG\TEST_02.DLL" />
+			<Metadata Name="FileName" Value="C:\CLONEFROMGIT\DBPROJECT\TEST_02\OBJ\DEBUG\TEST_02.DLL" />
 			<Metadata Name="AssemblyName" Value="Test_02" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\cassie.nieh\source\repos\DBProject\Test_02\obj\Debug\Test_02.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\CloneFromGit\DBProject\Test_02\obj\Debug\Test_02.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
